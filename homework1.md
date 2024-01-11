@@ -9,8 +9,12 @@ git init
 ```sh
 git add
 ```
-
+## Добавить коммит:
+```sh
 git commit -m "Message"
+```
+
+
 git log
 git log --oneline
 git checkout
