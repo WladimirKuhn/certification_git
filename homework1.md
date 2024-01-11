@@ -13,8 +13,10 @@ git add
 ```sh
 git commit -m "Message"
 ```
-
-
+## Просмотр истории коммитов
+```sh
 git log
+```
+
 git log --oneline
 git checkout
