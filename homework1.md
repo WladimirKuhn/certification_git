@@ -21,5 +21,7 @@ git log
 ```sh
 git log --oneline
 ```
-
-git checkout
+## Переключение между версиями 
+```sh
+git checkout <идентификатор>
+```
