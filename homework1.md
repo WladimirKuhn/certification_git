@@ -17,6 +17,9 @@ git commit -m "Message"
 ```sh
 git log
 ```
-
+## Просмотр истории коммитов в кратком виде:
+```sh
 git log --oneline
+```
+
 git checkout
